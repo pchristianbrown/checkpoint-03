@@ -10,4 +10,15 @@
   // Have an artist property that is determined by some input.
 
 // Create an instance of the Album class.
-.
+
+class Playlist {
+  constructor(title, song){
+    this.title = title;
+    this.song = song;
+    this.favorites = [];
+    console.log(diet);
+  }
+}
+const 80 = new Playlist ('80s Tracklist', 'Father Figure by George Michael');
+const 90 = new Playlist ('90s Tracklist', 'Remember the Time by Michael Jackson');
+const 70 = new Playlist ('70s Tracklist', 'Running on Empty by Jackson Browne');
